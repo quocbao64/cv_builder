@@ -1,0 +1,86 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Professional CV",
+  "description": "JSON Schema for a professional Curriculum Vitae",
+  "type": "object",
+  "properties": {
+    "profile": {
+      "type": "object",
+      "properties": {
+        "fullName": { "type": "string", "description": "Họ và tên" },
+        "position": { "type": "string", "description": "Vị trí công việc (VD: Frontend Developer)" },
+        "email": { "type": "string", "format": "email", "description": "Địa chỉ email" },
+        "phone": { "type": "string", "description": "Số điện thoại liên hệ" },
+        "location": { "type": "string", "description": "Khu vực sinh sống / làm việc" },
+        "linkedin": { "type": "string", "format": "uri", "description": "Link LinkedIn profile" },
+        "github": { "type": "string", "format": "uri", "description": "Link GitHub profile" },
+        "website": { "type": "string", "format": "uri", "description": "Link portfolio/website cá nhân" },
+        "summary": { "type": "string", "description": "Đoạn giới thiệu ngắn gọn về bản thân" }
+      },
+      "required": ["fullName", "email", "phone"]
+    },
+    "experience": {
+      "type": "array",
+      "description": "Kinh nghiệm làm việc",
+      "items": {
+        "type": "object",
+        "properties": {
+          "company": { "type": "string", "description": "Tên công ty" },
+          "role": { "type": "string", "description": "Vị trí/chức danh" },
+          "location": { "type": "string", "description": "Địa điểm làm việc" },
+          "startDate": { "type": "string", "format": "date", "description": "Ngày bắt đầu (YYYY-MM-DD)" },
+          "endDate": { "type": "string", "format": "date", "description": "Ngày kết thúc (YYYY-MM-DD), bỏ trống nếu đang làm việc tại đây" },
+          "isCurrent": { "type": "boolean", "description": "Xác định xem có đang làm việc tại đây không" },
+          "description": { "type": "string", "description": "Mô tả công việc và thành tựu (hỗ trợ markdown/newline)" }
+        },
+        "required": ["company", "role", "startDate"]
+      }
+    },
+    "education": {
+      "type": "array",
+      "description": "Quá trình học tập/giáo dục",
+      "items": {
+        "type": "object",
+        "properties": {
+          "institution": { "type": "string", "description": "Tên trường / tổ chức" },
+          "degree": { "type": "string", "description": "Bằng cấp (VD: Cử nhân, Thạc sĩ)" },
+          "fieldOfStudy": { "type": "string", "description": "Chuyên ngành học" },
+          "startDate": { "type": "string", "format": "date", "description": "Năm bắt đầu" },
+          "endDate": { "type": "string", "format": "date", "description": "Năm kết thúc" },
+          "description": { "type": "string", "description": "Mô tả thêm (GPA, thành tích nổi bật...)" }
+        },
+        "required": ["institution", "degree"]
+      }
+    },
+    "skills": {
+      "type": "array",
+      "description": "Các kỹ năng chuyên môn",
+      "items": {
+        "type": "object",
+        "properties": {
+          "category": { "type": "string", "description": "Phân loại kỹ năng (VD: Frontend, Backend, Tools)" },
+          "items": { "type": "array", "items": { "type": "string" }, "description": "Danh sách kỹ năng trong nhóm" }
+        },
+        "required": ["category", "items"]
+      }
+    },
+    "projects": {
+      "type": "array",
+      "description": "Các dự án nổi bật",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string", "description": "Tên dự án" },
+          "description": { "type": "string", "description": "Mô tả mục tiêu và quy mô dự án" },
+          "role": { "type": "string", "description": "Vai trò trong dự án" },
+          "startDate": { "type": "string", "format": "date", "description": "Ngày bắt đầu" },
+          "endDate": { "type": "string", "format": "date", "description": "Ngày kết thúc" },
+          "technologies": { "type": "array", "items": { "type": "string" }, "description": "Các công nghệ đã sử dụng" },
+          "link": { "type": "string", "format": "uri", "description": "Đường dẫn dự án / Source code" }
+        },
+        "required": ["name", "description"]
+      }
+    }
+  },
+  "required": ["profile", "experience", "education", "skills", "projects"]
+}

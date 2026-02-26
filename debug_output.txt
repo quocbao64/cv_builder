@@ -1,0 +1,144 @@
+
+=== PAGE 1 (143 items) ===
+
+--- RAW ORDER ---
+  [0] x=133 y=789 fs=18 w=329 "Huynh Quoc Bao - Backend Developer"
+  [1] x=229 y=769 fs=11 w=137 "District 12, Ho Chi Minh City"
+  [2] x=77 y=753 fs=11 w=9 ""
+  [3] x=90 y=753 fs=11 w=61 "0905015627"
+  [4] x=158 y=753 fs=11 w=11 ""
+  [5] x=174 y=753 fs=11 w=136 "quocbao64.dev@gmail.com"
+  [6] x=317 y=753 fs=11 w=10 ""
+  [7] x=37 y=618 fs=11 w=103 "TECHNICAL SKILLS"
+  [8] x=198 y=618 fs=11 w=342 "- Programming/Frameworks: Javascript (React, Node.js), HTML, CSS,"
+  [9] x=198 y=606 fs=11 w=35 "Golang"
+  [10] x=198 y=594 fs=11 w=168 "- Databases: MySQL, PostgreSQL"
+  [11] x=198 y=582 fs=11 w=287 "- Techniques/Tools: Figma, GoLand, Postman, Docker, Jira"
+  [12] x=198 y=570 fs=11 w=116 "- Cloud Platforms: AWS"
+  [13] x=198 y=558 fs=11 w=227 "- Version Control Systems: Git (GitHub, Gitlab)"
+  [14] x=198 y=546 fs=11 w=86 "- Testing: Go Test"
+  [15] x=37 y=532 fs=11 w=79 "OTHER SKILLS"
+  [16] x=198 y=532 fs=11 w=86 "- Problem-solving"
+  [17] x=198 y=520 fs=11 w=53 "- Algorithm"
+  [18] x=198 y=508 fs=11 w=68 "- Self-learning"
+  [19] x=37 y=463 fs=11 w=10 "❖"
+  [20] x=52 y=463 fs=11 w=121 "Bach Khoa Technology"
+  [21] x=471 y=464 fs=11 w=40 "06/2024"
+  [22] x=514 y=464 fs=11 w=4 "-"
+  [23] x=520 y=464 fs=11 w=38 "Present"
+  [24] x=37 y=293 fs=11 w=10 "❖"
+  [25] x=52 y=293 fs=11 w=84 "Chitta Company"
+  [26] x=469 y=293 fs=11 w=40 "04/2021"
+  [27] x=512 y=293 fs=11 w=4 "-"
+  [28] x=518 y=293 fs=11 w=40 "10/2021"
+  [29] x=37 y=141 fs=11 w=267 "AWS Cloud Technical Essentials Certificate (Coursera)"
+  [30] x=534 y=141 fs=11 w=24 "2023"
+  [31] x=37 y=119 fs=11 w=159 "ICPC-2020 Regionals Certificate"
+  [32] x=534 y=119 fs=11 w=24 "2020"
+  [33] x=37 y=66 fs=11 w=388 "First prize in the Young Scientist Challenge at the Industrial University of Ho Chi"
+  [34] x=37 y=54 fs=11 w=46 "Minh City"
+  [35] x=534 y=66 fs=11 w=24 "2022"
+  [36] x=37 y=35 fs=11 w=280 "First prize in the Vietnam Student Olympiad in Informatics"
+  [37] x=534 y=35 fs=11 w=24 "2020"
+  [38] x=37 y=11 fs=11 w=392 "First prize in the City-level Computer Science Competition for Excellent Students"
+  [39] x=534 y=11 fs=11 w=24 "2020"
+  [40] x=38 y=715 fs=13 w=74 "OBJECTIVE"
+  [41] x=37 y=697 fs=11 w=506 "A dedicated Backend Developer with practical experience in Golang, Docker, and AWS, seeking to build"
+  [42] x=37 y=685 fs=11 w=479 "high-performance, scalable systems. My goal is to contribute to optimal software architecture while"
+  [43] x=37 y=673 fs=11 w=504 "progressively mastering infrastructure and automation to transition into a professional DevOps Engineer"
+  [44] x=37 y=661 fs=11 w=21 "role."
+  [45] x=38 y=635 fs=13 w=46 "SKILLS"
+  [46] x=38 y=482 fs=13 w=129 "WORK EXPERIENCE"
+  [47] x=52 y=447 fs=11 w=96 "Backend Developer"
+  [48] x=67 y=433 fs=11 w=429 "Integrated secure digital signature services (VNPT, Viettel, BKAV,...) using ASP.NET and"
+  [49] x=67 y=421 fs=11 w=441 "orchestrated deployment on IIS, ensuring legal compliance for digital academic transcripts."
+  [50] x=67 y=409 fs=11 w=473 "Implemented Immudb to architect an immutable ledger for academic records, guaranteeing 100%"
+  [51] x=67 y=397 fs=11 w=315 "data integrity and traceability against unauthorized modifications."
+  [52] x=67 y=385 fs=11 w=474 "Developed an automated background service using C# and Python to parse exam questions from"
+  [53] x=67 y=373 fs=11 w=333 "uploaded files and integrate with Mathpix API for content digitization."
+  [54] x=67 y=361 fs=11 w=487 "Refactored and optimized critical RESTful APIs and database queries, successfully reducing system"
+  [55] x=67 y=349 fs=11 w=248 "response times by 60% for the E-learning platform."
+  [56] x=67 y=337 fs=11 w=469 "Established comprehensive Unit Testing standards using Go Test to validate core business logic,"
+  [57] x=67 y=325 fs=11 w=254 "ensuring code reliability and preventing regressions."
+  [58] x=52 y=313 fs=11 w=61 "Tech Stack:"
+  [59] x=116 y=313 fs=11 w=325 "Golang, Gin, .NET 8, Python, Docker, Redis, Kafka, AWS, MySQL."
+  [60] x=52 y=276 fs=11 w=80 "Intern Front-End"
+  [61] x=67 y=262 fs=11 w=458 "Developed the responsive user interface for the real estate trading platform using React.js and"
+  [62] x=67 y=250 fs=11 w=370 "Redux, ensuring seamless state management across complex listing pages."
+  [63] x=67 y=238 fs=11 w=486 "Successfully integrated Google Maps API to enable interactive property visualization, allowing users"
+  [64] x=67 y=226 fs=11 w=266 "to explore locations and nearby amenities dynamically."
+  [65] x=67 y=214 fs=11 w=481 "Collaborated with the backend team to integrate RESTful APIs using Axios, ensuring accurate data"
+  [66] x=67 y=202 fs=11 w=292 "rendering and handling technical requirements for data flow."
+  [67] x=52 y=190 fs=11 w=61 "Tech Stack:"
+  [68] x=116 y=190 fs=11 w=301 "React.js, Redux, Reactstrap, SCSS, Axios, Google Maps API."
+  [69] x=38 y=161 fs=13 w=108 "CERTIFICATIONS"
+  [70] x=38 y=85 fs=13 w=131 "HONORS & AWARDS"
+  [71] x=332 y=753 fs=11 w=189 "https://www.linkedin.com/in/quocbao64"
+
+--- SORTED (y desc, x asc) ---
+  [y=789] Huynh Quoc Bao - Backend Developer
+  [y=769] District 12, Ho Chi Minh City
+  [y=753]  0905015627  quocbao64.dev@gmail.com  https://www.linkedin.com/in/quocbao64
+  [y=715] OBJECTIVE
+  [y=697] A dedicated Backend Developer with practical experience in Golang, Docker, and AWS, seeking to build
+  [y=685] high-performance, scalable systems. My goal is to contribute to optimal software architecture while
+  [y=673] progressively mastering infrastructure and automation to transition into a professional DevOps Engineer
+  [y=661] role.
+  [y=635] SKILLS
+  [y=618] TECHNICAL SKILLS - Programming/Frameworks: Javascript (React, Node.js), HTML, CSS,
+  [y=606] Golang
+  [y=594] - Databases: MySQL, PostgreSQL
+  [y=582] - Techniques/Tools: Figma, GoLand, Postman, Docker, Jira
+  [y=570] - Cloud Platforms: AWS
+  [y=558] - Version Control Systems: Git (GitHub, Gitlab)
+  [y=546] - Testing: Go Test
+  [y=532] OTHER SKILLS - Problem-solving
+  [y=520] - Algorithm
+  [y=508] - Self-learning
+  [y=482] WORK EXPERIENCE
+  [y=464] ❖ Bach Khoa Technology 06/2024 - Present
+  [y=447] Backend Developer
+  [y=433] Integrated secure digital signature services (VNPT, Viettel, BKAV,...) using ASP.NET and
+  [y=421] orchestrated deployment on IIS, ensuring legal compliance for digital academic transcripts.
+  [y=409] Implemented Immudb to architect an immutable ledger for academic records, guaranteeing 100%
+  [y=397] data integrity and traceability against unauthorized modifications.
+  [y=385] Developed an automated background service using C# and Python to parse exam questions from
+  [y=373] uploaded files and integrate with Mathpix API for content digitization.
+  [y=361] Refactored and optimized critical RESTful APIs and database queries, successfully reducing system
+  [y=349] response times by 60% for the E-learning platform.
+  [y=337] Established comprehensive Unit Testing standards using Go Test to validate core business logic,
+  [y=325] ensuring code reliability and preventing regressions.
+  [y=313] Tech Stack: Golang, Gin, .NET 8, Python, Docker, Redis, Kafka, AWS, MySQL.
+  [y=293] ❖ Chitta Company 04/2021 - 10/2021
+  [y=276] Intern Front-End
+  [y=262] Developed the responsive user interface for the real estate trading platform using React.js and
+  [y=250] Redux, ensuring seamless state management across complex listing pages.
+  [y=238] Successfully integrated Google Maps API to enable interactive property visualization, allowing users
+  [y=226] to explore locations and nearby amenities dynamically.
+  [y=214] Collaborated with the backend team to integrate RESTful APIs using Axios, ensuring accurate data
+  [y=202] rendering and handling technical requirements for data flow.
+  [y=190] Tech Stack: React.js, Redux, Reactstrap, SCSS, Axios, Google Maps API.
+  [y=161] CERTIFICATIONS
+  [y=141] AWS Cloud Technical Essentials Certificate (Coursera) 2023
+  [y=119] ICPC-2020 Regionals Certificate 2020
+  [y=85] HONORS & AWARDS
+  [y=66] First prize in the Young Scientist Challenge at the Industrial University of Ho Chi 2022
+  [y=54] Minh City
+  [y=35] First prize in the Vietnam Student Olympiad in Informatics 2020
+  [y=11] First prize in the City-level Computer Science Competition for Excellent Students 2020
+
+=== PAGE 2 (13 items) ===
+
+--- RAW ORDER ---
+  [0] x=37 y=802 fs=11 w=10 "❖"
+  [1] x=52 y=802 fs=11 w=210 "Industrial University of Ho Chi Minh City"
+  [2] x=486 y=803 fs=11 w=24 "2020"
+  [3] x=514 y=803 fs=11 w=4 "-"
+  [4] x=520 y=803 fs=11 w=38 "Present"
+  [5] x=38 y=821 fs=13 w=76 "EDUCATION"
+  [6] x=52 y=786 fs=11 w=124 "Major: Software Engineer"
+
+--- SORTED (y desc, x asc) ---
+  [y=821] EDUCATION
+  [y=803] ❖ Industrial University of Ho Chi Minh City 2020 - Present
+  [y=786] Major: Software Engineer
