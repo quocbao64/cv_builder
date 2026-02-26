@@ -2,6 +2,7 @@
 export default {
   darkMode: ["class"],
   content: ["./index.html", "./src/**/*.{ts,tsx,js,jsx}"],
+  safelist: ['p-6', 'p-10', 'p-14'],
   theme: {
     extend: {
       borderRadius: {
